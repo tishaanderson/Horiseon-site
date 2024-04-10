@@ -63,4 +63,8 @@ Live link: [Horiseon Home](https://tishaanderson.github.io/Horiseon-site/)
 
 #### License
 
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the [MIT](LICENSE.txt) license.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
